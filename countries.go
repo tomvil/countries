@@ -5331,7 +5331,7 @@ func ByName(name string) CountryCode { //nolint:misspell,gocyclo
 		return TWN
 	case "TH", "THA", "THAILAND", "TAILAND", "THAI":
 		return THA
-	case "TZ", "TZA", "EAT", "EAZ", "TANZANIA", "TANZANIYA", "TANSANIA":
+	case "TZ", "TZA", "EAT", "EAZ", "TANZANIA", "TANZANIYA", "TANSANIA", "TANZANIAUNITEDREPUBLICOF":
 		return TZA
 	case "TG", "TGO", "TOGO":
 		return TGO
