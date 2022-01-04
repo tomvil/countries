@@ -5193,7 +5193,7 @@ func ByName(name string) CountryCode { //nolint:misspell,gocyclo
 		return FSM
 	case "MZ", "MOZ", "MOZAMBIQUE", "MOZAMBIQ", "MOSAMBIK":
 		return MOZ
-	case "MD", "MDA", "MOLDOVA", "MOLDAVIA", "REPUBLIKMOLDOVA":
+	case "MD", "MDA", "MOLDOVA", "MOLDAVIA", "REPUBLIKMOLDOVA", "MOLDOVAREPUBLICOF":
 		return MDA
 	case "MC", "MCO", "MONACO", "MONAKO":
 		return MCO
